@@ -1,0 +1,1 @@
+add_library(demo2 SHARED Demo2.cpp)
