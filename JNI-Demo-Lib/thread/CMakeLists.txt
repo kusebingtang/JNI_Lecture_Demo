@@ -1,0 +1,1 @@
+add_library(native-lib SHARED thread_jni.cpp)

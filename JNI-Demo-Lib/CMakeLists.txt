@@ -12,4 +12,6 @@ add_subdirectory(Demo2)
 
 add_subdirectory(dynamic_register)
 
+add_subdirectory(thread)
+
 add_library(register SHARED library.cpp library.h )
