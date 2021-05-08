@@ -1,0 +1,1 @@
+add_library(calljava-lib SHARED calljava.cpp)
